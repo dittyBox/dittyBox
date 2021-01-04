@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dittyBox/dittyBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Learning language
+
+[![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-61DAFB?logo=React)]() [![React](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-E0234E?logo=NestJS)]() [![React](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-3178C6?logo=TypeScript)]() [![React](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F7DF1E?logo=JavaScript)]()
