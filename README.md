@@ -12,6 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Learning language
+## Learning language
 
-[![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-61DAFB?logo=React)]() [![React](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-E0234E?logo=NestJS)]() [![React](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-3178C6?logo=TypeScript)]() [![React](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F7DF1E?logo=JavaScript)]()
+[![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-61DAFB?logo=React)](https://reactjs.org/) [![NestJS](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-E0234E?logo=NestJS)](https://nestjs.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-3178C6?logo=TypeScript)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-F7DF1E?logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+hope all languages full in 5 stars
+
+## History
+| 2021 | Move on to the future instead of being complacent |
+|------|---------------------------------------------------|
+| 2020 | Slaves in Legacy Systems for 14years              |
+| 2019 | Legacy Systems                                    |
+| 2018 | Legacy Systems                                    |
+| 2017 | Legacy Systems                                    |
+| ...  | Legacy Systems                                    |
+| ..   | Legacy Systems                                    |
+| ..   | Legacy Systems                                    |
+| 2006 | joining a company                                 |
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdittyBox&count_bg=%23000000&title_bg=%23FF0000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
