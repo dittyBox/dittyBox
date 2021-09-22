@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 
 
 ## History
-| 2021 | Move on to the future instead of being complacent |
+| 2021 | MES,SCM                                           |
 |------|---------------------------------------------------|
 | 2020 | Slaves in Legacy Systems for 14years              |
-| 2019 | Legacy Systems                                    |
-| 2018 | Legacy Systems                                    |
-| 2017 | Legacy Systems                                    |
 | ...  | Legacy Systems                                    |
 | ..   | Legacy Systems                                    |
 | ..   | Legacy Systems                                    |
