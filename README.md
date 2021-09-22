@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ## Learning language
 
 [![React](https://img.shields.io/badge/React-React-61DAFB?logo=React)](https://reactjs.org/) [![NestJS](https://img.shields.io/badge/NestJS-NestJS-E0234E?logo=NestJS)](https://nestjs.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript-3178C6?logo=TypeScript)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-F7DF1E?logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [![React](https://img.shields.io/badge/React-React-61DAFB?logo=React)](https://reactjs.org/)
 
 
