@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 [![React](https://img.shields.io/badge/React-React-61DAFB?logo=React)](https://reactjs.org/) [![NestJS](https://img.shields.io/badge/NestJS-NestJS-E0234E?logo=NestJS)](https://nestjs.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript-3178C6?logo=TypeScript)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-F7DF1E?logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [![Blazor](https://img.shields.io/badge/blazor-blazor-512BD4?logo=Blazor)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor/)
+[![C#](https://img.shields.io/badge/C%23-C%23-239120?logo=CSharp)](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
+
 
 
 ## History
